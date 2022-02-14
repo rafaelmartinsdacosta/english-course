@@ -24,7 +24,7 @@ The objective to this repository is centralized de materiales, videos and homewo
 
 **Match description 1-5 to the companies in [section 1](#1---working-with-a-partner)**
 
-1) _This company **provides** many different Interner services, including news, online shopping and email. Most of its **revenue** comes from advertising on its website. Its head office is in Sunnyvale, California_
+1) _This company **provides** many different Internet services, including news, online shopping and email. Most of its **revenue** comes from advertising on its website. Its head office is in Sunnyvale, California_
 
 > Answer: This is company is **Yahoo**
 
@@ -116,6 +116,16 @@ When the company started, it produced bicycles. Today, it continues to **provide
 
 **Listen and complete the information about the ASSA ABLOY Group**
 
+| Name of group | ASSA ABLOY |
+| --- | --- |
+| Products | **locks** and **security** **systems** |
+| Competitors | **Easting** **Companies**, Ingersoll-Rand and Master Lock |
+| Nationality | **Swidsh group** |
+| Number of employees | **43,000** |
+| Revenue | **5,000,000,000 euros** |
+| International operations | over **70** countries, **150** companies |
+| Name of the subsidiary | B**ESAM** |
+
 ## 9 - Make the sentence
 
 **Make the sentence about the employee and her company, using the information in 8 and some or all of the words in 4.**
@@ -124,25 +134,28 @@ When the company started, it produced bicycles. Today, it continues to **provide
   - She works ASSA ABLOY.
   - It produces locks and security systems
 
+- Phrases
+  - provide - (service)
+    - **ASSA ABLOY provides security systems**
+  - revenue
+    - **It has a big revenue, approximately 5Bi of euros**
+  - based
+    - **It's based on Switzerland.**
+  - employee
+    - **It has a more than 40 thousand employees**
+  - operate
+    - **And operates about 70 countries**
+  - specialize
+    - **It's specialized in automatic ?? mecanisms**
+  - subsidiary
+    - **Besam is a subsidiary of ASSA ABLOY**
+  - competitor
+    - **The main competitor is Ingersoll-Rand and Master Lock**
+  - produce - (product)
+    - **It's produce locks**
+  - exporter
+    - **It a big exporter around the world**
 
-ASSA BLOY
-
-locks and security system
-- Eastern company
-swidsh group
-
-  switch group
-  43 th employess
-  5bi euros
-  70 countries
-  150 company in the group
-  automa mecanisms
-  Besam
-  automatic do mecanisms
-
-  microsoft
-
-goods = product
 
 ## Homework
 - Page 7
