@@ -4,11 +4,13 @@
 
 **Ask and answer question 1-5.**
 
-1. Which company do you work for?
+**1. Which company do you work for?**
 > I worded to unico id tech company.
-2. Is it a new company?
+
+**2. Is it a new company?**
 > It's a new name but not a new company, it born in 2002.
-3. What does it do?
+
+**3. What does it do?**
 > Today it's a digital company with 3 main products. unico | check, unico | people and unico | sign.
 >
 > The **Check** is a biometric solution with the purpose of detecting the real holder of the CPF document, otherwise, other people can impersonate you.
@@ -16,9 +18,11 @@
 > The **People** is intented to provide a good experience for hiring people.
 >
 > **Sign** works with digital signatures betwen people and companies.
-4. Do you work at the head office?
+
+**4. Do you work at the head office?**
 > No, I work from home, but in the past a worked at the Londrina subsidiary.
-5. Does the company have offices in other countries?
+
+**5. Does the company have offices in other countries?**
 > There isn't, but there are in São Paulo, Londrina, Porto Alegre and Belo Horizonte.
 
 ## 2 - Work with a partner
