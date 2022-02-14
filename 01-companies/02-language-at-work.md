@@ -36,11 +36,16 @@
 **3. A negative sentence using the verd *be***
 
 **4. A question using the verb *do***
+> xxxxxxx
 
 **5. A question using the verb *be***
+> xxxxxxx
 
 **a. We use the present simple to talk about *something happening now* / *facts or regular actions*.**
+> xxxxxxx
 
 **b. We add *-s* or *-es* to the end of the verb in the *second* / *third* person singular.**
+> xxxxxxx
 
 **c. We use *be* / *do* for questions with adjectives, and we use *be* / *do* for questions with verbs.**
+> xxxxxxx
