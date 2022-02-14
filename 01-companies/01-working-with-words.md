@@ -145,3 +145,7 @@ When the company started, it produced bicycles. Today, it continues to **provide
     - **It's produce locks**
   - exporter
     - **It a big exporter around the world**
+
+## 10 - Work with a partner
+
+**Talk about your company or organization**
