@@ -5,18 +5,21 @@
 **Ask and answer question 1-5.**
 
 1. Which company do you work for?
-  - I worded to unico id tech company.
+> I worded to unico id tech company.
 2. Is it a new company?
-  - It's a new name but not a new company, it born in 2002.
+> It's a new name but not a new company, it born in 2002.
 3. What does it do?
-  - Today it's a digital company with 3 main products. unico | check, unico | people and unico | sign.
-  - The **Check** is a biometric solution with the purpose of detecting the real holder of the CPF document, otherwise, other people can impersonate you.
-  - The **People** is intented to provide a good experience for hiring people.
-  - **Sign** works with digital signatures betwen people and companies.
+> Today it's a digital company with 3 main products. unico | check, unico | people and unico | sign.
+>
+> The **Check** is a biometric solution with the purpose of detecting the real holder of the CPF document, otherwise, other people can impersonate you.
+>
+> The **People** is intented to provide a good experience for hiring people.
+>
+> **Sign** works with digital signatures betwen people and companies.
 4. Do you work at the head office?
-  - No, I work from home, but in the past a worked at the Londrina subsidiary.
+> No, I work from home, but in the past a worked at the Londrina subsidiary.
 5. Does the company have offices in other countries?
-  - There isn't, but there are in São Paulo, Londrina, Porto Alegre and Belo Horizonte.
+> There isn't, but there are in São Paulo, Londrina, Porto Alegre and Belo Horizonte.
 
 ## 2 - Work with a partner
 
@@ -68,7 +71,7 @@
 ## 4 - Choose the correct words in *italics* to complete the text
 
 > You probably ***know*** that Nestlé ***produces*** Nespresso machines and Nestlé instant coffee. And many people ***see*** the Nestlé name on their breakfast cereal packet every morning. But what else ***do*** you know about the company? What other products ***is*** it sell, and where? And he food industry ***isn't*** always green, so what does the company ***do*** to protect the environment?
-
+>
 > Our reporter Rosa Manning ***talk*** to employees of Nestlé abd discovers what they do. She ***learns*** why most employees ***are*** happy to work there and why most of Nestlé's employees ***isn't*** want to leave.
-
+>
 > Listen to Nestlé in Focus tonight at 8 p.m. to learn more about one of the world's biggest food companies.
