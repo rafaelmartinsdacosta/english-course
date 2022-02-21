@@ -103,3 +103,15 @@
 - Nestlé also invest in people outside of the company.
 - Nestlé is a green company, reducing the use of water, energy and packages.
 - Nestlé has 300,000 emploeeys
+
+## 6 - Listen again and answer questions 1-9.
+
+1. How old is the company?
+1. What products does it produce?
+1. What is its annual revenue?
+1. Where is the head office?
+1. How many factories does it have?
+1. How many employees does it have?
+1. Is employee training important for the company?
+1. Does the company help local communities?
+1. Is it a green company?
