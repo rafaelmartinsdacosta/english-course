@@ -30,17 +30,17 @@
 **Are these sentences about Gazprom, Nestlé and Toyota true (T) os false (F)?**
 
 1. Gazprom produces energy.
-  - TRUE - Yes, it is an energy company based in Russia.
+  - **TRUE** - Yes, it is an energy company based in Russia.
 2. The companies aren't competitors.
-  - FALSE - The other companies are in different sectors.
+  - **FALSE** - The other companies are in different sectors.
 3. Nestlé provides services but it doesn't produce anything.
-  - FALSE - It's false, Nestlé produces many products.
+  - **FALSE** - It's false, Nestlé produces many products.
 4. Two of the companies produce cars.
-  - TRUE - Gazprom and Toyota produces cars.
+  - **TRUE** - Gazprom and Toyota produces cars.
 5. Toyota isn't Russian.
-  - TRUE - Toyota is a Japanese company
+  - **TRUE** - Toyota is a Japanese company
 6. Nestlé and Gazprom don't have their head office in Japan.
-  - TRUE - They don't have.
+  - **TRUE** - They don't have.
 
 ## 3 - Find examples from [1](#1---work-with-a-partner) and [2](#2---work-with-a-partner) for descriptions 1-5 in the Language point.
 
@@ -89,3 +89,17 @@
 > Our reporter Rosa Manning ***talk*** to employees of Nestlé abd discovers what they do. She ***learns*** why most employees ***are*** happy to work there and why most of Nestlé's employees ***isn't*** want to leave.
 >
 > Listen to Nestlé in Focus tonight at 8 p.m. to learn more about one of the world's biggest food companies.
+
+
+## 5 - Listen and make a note of three interesting facts about Neslté.
+
+**Compare with your partner**
+
+- Nestlé company is 150 years old.
+- It was created in 1866 by Henri Nestlé
+- The first Nestlé product was a baby milk
+- Neslté is a trully global company.
+- Neslté believe is important to invest in employees.
+- Nestlé also invest in people outside of the company.
+- Nestlé is a green company, reducing the use of water, energy and packages.
+- Nestlé has 300,000 emploeeys
