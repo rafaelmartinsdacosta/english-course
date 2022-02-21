@@ -13,8 +13,6 @@ The objective to this repository is centralized de materiales, videos and homewo
 
 
 ## Homework
-- Page 8
-  - Activity 3
 - Practice file 1 on page 106
   - Activity 1
   - Activity 2
