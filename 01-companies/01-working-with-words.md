@@ -126,25 +126,25 @@ When the company started, it produced bicycles. Today, it continues to **provide
 
 - Phrases
   - provide - (service)
-    - **ASSA ABLOY provides security systems**
+    - **ASSA ABLOY produces lock and provides security systems**
   - revenue
-    - **It has a big revenue, approximately 5Bi of euros**
+    - **It has a big revenue, approximately 5Bi euros**
   - based
-    - **It's based on Switzerland.**
+    - **It's based in Switzerland.**
   - employee
     - **It has a more than 40 thousand employees**
   - operate
-    - **And operates about 70 countries**
+    - **And operates in about 70 countries**
   - specialize
-    - **It's specialized in automatic ?? mecanisms**
+    - **It's specialized in automatic door mecanisms**
   - subsidiary
     - **Besam is a subsidiary of ASSA ABLOY**
   - competitor
     - **The main competitor is Ingersoll-Rand and Master Lock**
   - produce - (product)
-    - **It's produce locks**
+    - **It produces locks**
   - exporter
-    - **It a big exporter around the world**
+    - **It's a big exporter around the world**
 
 ## 10 - Work with a partner
 
