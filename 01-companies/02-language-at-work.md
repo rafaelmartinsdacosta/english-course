@@ -5,10 +5,10 @@
 **Ask and answer question 1-5.**
 
 **1. Which company do you work for?**
-> I worded to unico id tech company.
+> I worket in unico id tech company.
 
 **2. Is it a new company?**
-> It's a new name but not a new company, it born in 2002.
+> It's a new name but not a new company, it was born in 2002.
 
 **3. What does it do?**
 > Today it's a digital company with 3 main products. unico | check, unico | people and unico | sign.
@@ -20,10 +20,10 @@
 > **Sign** works with digital signatures betwen people and companies.
 
 **4. Do you work at the head office?**
-> No, I work from home, but in the past a worked at the Londrina subsidiary.
+> No, I work from home, but in the past I worked at the Londrina subsidiary.
 
 **5. Does the company have offices in other countries?**
-> There isn't, but there are in São Paulo, Londrina, Porto Alegre and Belo Horizonte.
+> There aren't, but there are in São Paulo, Londrina, Porto Alegre and Belo Horizonte.
 
 ## 2 - Work with a partner
 
@@ -32,11 +32,11 @@
 1. Gazprom produces energy.
   - **TRUE** - Yes, it is an energy company based in Russia.
 2. The companies aren't competitors.
-  - **FALSE** - The other companies are in different sectors.
+  - **TRUE** - The other companies are in different sectors.
 3. Nestlé provides services but it doesn't produce anything.
   - **FALSE** - It's false, Nestlé produces many products.
 4. Two of the companies produce cars.
-  - **TRUE** - Gazprom and Toyota produces cars.
+  - **FALSE** - Gazprom just provide energy.
 5. Toyota isn't Russian.
   - **TRUE** - Toyota is a Japanese company
 6. Nestlé and Gazprom don't have their head office in Japan.
@@ -74,13 +74,13 @@
 > It **is** a new company?
 
 **a. We use the present simple to talk about *something happening now* / *facts or regular actions*.**
-> xxxxxxx
+> facts or regular actions
 
 **b. We add *-s* or *-es* to the end of the verb in the *second* / *third* person singular.**
-> xxxxxxx
+> Third person
 
 **c. We use *be* / *do* for questions with adjectives, and we use *be* / *do* for questions with verbs.**
-> xxxxxxx
+> We use **be** with adjectives and use **do** with verbs
 
 ## 4 - Choose the correct words in *italics* to complete the text
 
