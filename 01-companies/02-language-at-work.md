@@ -106,12 +106,29 @@
 
 ## 6 - Listen again and answer questions 1-9.
 
-1. How old is the company?
-1. What products does it produce?
-1. What is its annual revenue?
-1. Where is the head office?
-1. How many factories does it have?
-1. How many employees does it have?
-1. Is employee training important for the company?
-1. Does the company help local communities?
-1. Is it a green company?
+**1. How old is the company?**
+> It has 150 years old
+
+**2. What products does it produce?**
+> It produce baby milk, baby products today, chocolate,unconfectional, breakfast cereals, bottom water, ice cream
+
+**3. What is its annual revenue?**
+> 90Bi Swiss franc
+
+**4. Where is the head office?**
+> Vevey in switzerland
+
+**5. How many factories does it have?**
+> 447 factories
+
+**6. How many employees does it have?**
+> 300,000 emloyees
+
+**7. Is employee training important for the company?**
+> Yes, Nestlé believe is important trainee the employees 
+
+**8. Does the company help local communities?**
+> Nestlé also invest people outside the companie
+
+**9. Is it a green company?**
+> Yes, it's a green company
