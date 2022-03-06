@@ -84,9 +84,9 @@
 
 ## 4 - Choose the correct words in *italics* to complete the text
 
-> You probably ***know*** that Nestlé ***produces*** Nespresso machines and Nestlé instant coffee. And many people ***see*** the Nestlé name on their breakfast cereal packet every morning. But what else ***do*** you know about the company? What other products ***is*** it sell, and where? And he food industry ***isn't*** always green, so what does the company ***do*** to protect the environment?
+> You probably ***know*** that Nestlé ***produces*** Nespresso machines and Nestlé instant coffee. And many people ***see*** the Nestlé name on their breakfast cereal packet every morning. But what else ***do*** you know about the company? What other products ***does*** it sell, and where? And he food industry ***isn't*** always green, so what does the company ***do*** to protect the environment?
 >
-> Our reporter Rosa Manning ***talk*** to employees of Nestlé abd discovers what they do. She ***learns*** why most employees ***are*** happy to work there and why most of Nestlé's employees ***isn't*** want to leave.
+> Our reporter Rosa Manning ***talks*** to employees of Nestlé abd discovers what they do. She ***learns*** why most employees ***are*** happy to work there and why most of Nestlé's employees ***don't*** want to leave.
 >
 > Listen to Nestlé in Focus tonight at 8 p.m. to learn more about one of the world's biggest food companies.
 
@@ -103,7 +103,7 @@
 - Nestlé also invest in people outside of the company.
 - Nestlé is a green company, reducing the use of water, energy and packages.
 - Nestlé has 300,000 emploeeys
-
+- Nestlé invest on your employees, 80% traineed
 ## 6 - Listen again and answer questions 1-9.
 
 **1. How old is the company?**
