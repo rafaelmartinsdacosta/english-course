@@ -110,7 +110,7 @@
 > It has 150 years old
 
 **2. What products does it produce?**
-> It produce baby milk, baby products today, chocolate,unconfectional, breakfast cereals, bottom water, ice cream
+> It produce baby milk, chocolate, unconfectional, breakfast cereals, bottom water, ice cream
 
 **3. What is its annual revenue?**
 > 90Bi Swiss franc
