@@ -23,3 +23,4 @@
 ## 2 - Choose the correct words in *italics* to complete the text.
 
 My company ***produces*** specialized software for the film industry. We are ***based*** in San Francisco, but we also ***operate*** in Europe and the Far East where we have two ***subsidiaries***. There are 450 ***employees*** in the company. We sell our ***products*** to companies like Dreamworks, which ***produce*** animated movies. Out technology is very new, so we don't have many ***competitors***.
+
