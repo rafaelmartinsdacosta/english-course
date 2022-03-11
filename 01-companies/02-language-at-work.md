@@ -107,10 +107,10 @@
 ## 6 - Listen again and answer questions 1-9.
 
 **1. How old is the company?**
-> It has 150 years old
+> It is 150 years old
 
 **2. What products does it produce?**
-> It produce baby milk, chocolate, unconfectional, breakfast cereals, bottom water, ice cream
+> It produce baby milk, chocolate, unconfectional, breakfast cereals, bottled water, ice cream
 
 **3. What is its annual revenue?**
 > 90Bi Swiss franc
@@ -122,7 +122,7 @@
 > 447 factories
 
 **6. How many employees does it have?**
-> 300,000 emloyees
+> 300,000 employees
 
 **7. Is employee training important for the company?**
 > Yes, Nestlé believe is important trainee the employees 
