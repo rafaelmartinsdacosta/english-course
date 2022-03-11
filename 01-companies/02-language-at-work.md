@@ -139,7 +139,7 @@ Example: *The company is over 150 years old.*
 
 1. It is considered a green company for its initiative with nature.
 1. The employees receive a good training to work in the company.
-1. Baby milk was the first product of the Nestlé. (doubt about the sentence)
+1. Baby milk was the first product of the Nestlé.
 1. It is an older company.
 1. It is a truly global company.
 1. Neslté also invest in local community.
