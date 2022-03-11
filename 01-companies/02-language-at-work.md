@@ -132,3 +132,14 @@
 
 **9. Is it a green company?**
 > Yes, it's a green company
+
+## 7 - Use the information from [6](#6---listen-again-and-answer-questions-1-9) to make sentences about Nestlé.
+
+Example: *The company is over 150 years old.*
+
+1. It is considered a green company for its initiave with nature.
+1. The employees receive a good training to work in the company.
+1. Baby milk was the first product of the Nestlé. (doubt about the sentence)
+1. It is an older company.
+1. It is a truly global company.
+1. Neslté also invest in local community.
