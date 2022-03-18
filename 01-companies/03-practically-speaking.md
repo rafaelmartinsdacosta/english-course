@@ -12,7 +12,7 @@
 - Number of countries: 165
 - Number of factories: 89
 - Number of employees: 305,000
-- Annual sales: $17.8**B**, near $18**B**
+- Annual sales: $17.8**B**, nearly $18**B**
 
 ## 3 - [Listen](https://drive.google.com/file/d/1NVSwueGpAJxZx-WB97qix7SFjylRNs36/view?usp=sharing) again and complete the expressions for asking somebody to repeat the information.
 
@@ -30,3 +30,9 @@
 ## 5 - Write five facts about youself or your company, but replace certain words with ****.
 
 Read your sentences to your partner. Take turns asking them to repeat the missing information.
+
+- Number of countries: 1
+- Number of cities based: 3
+- Number of cities with employees: 14
+- Number of employees: 1035
+- Annual sales: $400**M**
