@@ -12,6 +12,10 @@ The objective to this repository is centralized de materiales, videos and homewo
     - [Practice file](./01-companies/practice-file/01-working-with-words.md)
 1) [Language at work | Present simple](./01-companies/02-language-at-work.md)
     - [Practice file](./01-companies/practice-file/02-language-at-work.md)
+1) [Practically speaking | How to ask somebody to repeat information](./01-companies/03-practically-speaking.md)
+    - Practice file (next)
+1) [Business communication | Making introductions](./01-companies/04-business-comunication.md)
+    - Practice file (next)
 
 
   
