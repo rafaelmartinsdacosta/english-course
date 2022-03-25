@@ -1,14 +1,28 @@
 # Working with words | Company facts
+- reading and listening about a work-related topic
+- focus on key words and phrases
+- practise the new words in speaking activities
+
+- **Starting point**
+  - What kind of company do youwork for?
+  - Do you think it's better to work for a large company or a small company?
 
 ## 1 - Working with a partner
 
 **What do you know about this companies?**
 
 - Ben and Jerry's
+  - Ben and Jerry's is a well-known company abroad but in Brazil we don't have many points of sale, we see the brand in the market but we dont see the point of sales in many cities, just in Sao Paulo and Rio de Janeiro.
 - Michelin
+  - Michelin is a synonym of quality and durability in Brazil, it's known in most part of the country and the brand has a good historical.
+I think the competitors of Michelin in Brazil are Goodyear and Pirelli.
 - Yahoo!
+  - Yahoo it's a communication website founded in 1994 by Jerry Yang and David Filo and after 1995 was integrated by Verizon Communications. Some services provided by Yahoo in the past today is provides many differents companies like Google, Apple, Facebook, Microsoft and others, soon Yahoo had a slump in its popularity
 - Samsung
-- Ikea 
+  - Samsung have a good popularity in the market through the devices like cell phones, tv/monitor, ar conditioner, filter of water, refrigerators and others. 
+  - My first contact with Samsung was through the brand's televisions, when my family bought one for home.
+- Ikea
+  - For me it's a first time a listen about Ikea, a think in Brazil we don't have a shops for this company, research a little I found it very similarity with Leroy Merlin, like a department shop. 
 
 ## 2 - Read this text
 

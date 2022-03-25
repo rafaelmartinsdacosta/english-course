@@ -1,4 +1,7 @@
 # Business communication | Making introductions
+- key expressions for authentic work contexts
+- improve your communication skills for meetings, presentations, socializing, and phone calls
+- key expressions list in every unit 
 
 ## 1 - What do you talk about you meet someone at a conference for the first time?
 

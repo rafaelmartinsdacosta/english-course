@@ -1,4 +1,7 @@
 # Language at work | Present simple
+- grammar presented in authentic work contexts
+- language point box focuses on the key grammar points
+- practise using the language in real work situations
 
 ## 1 - Work with a partner
 
