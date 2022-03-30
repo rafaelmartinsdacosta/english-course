@@ -31,7 +31,19 @@
 
 ## 4 - [Match](https://drive.google.com/file/d/1jlR6NyFlFU_M0YokyagG9Jy01pReXsau/view?usp=sharing) questions 1-8 in [3](#3---completehttpsdrivegooglecomfiled1jlr6nyflfum0yokyagg9jy01prexsauviewuspsharing-what-gianluca-says-then-listen-again-and-check-your-answers) to Carmen's responses a-h. Then listen and check.
 
-- **c** 
-  - a) I'm a journalist.
-- **xx**
-  - b) Carmen. Carmen Sanchez. 
+1. Excuse me. It this seat free?
+  - C -> Yes, it is. Go ahead.
+2. Thanks very much. Can I introduce myself?. I'm Gianluca Donatelli.
+  - D -> Nice to meet you. I'm Carmen Sanchez.
+3. Nice to meet you too, Carmen. Where are you from?
+  - H -> I'm from Argentiva
+4. And who do you work for?
+  - F -> I don't work for a company. I'm self-employed.
+5. Oh really? And what do you do?
+  - A -> I'm a journalist.
+6. So why are you at this conference?
+  - E -> I'm here to research an article on Internet service providers.
+7. That's interesting. A friend of mine works for an Italian service provider. Can I introduce you to him?
+  - G -> Yes, of course. That would be nice.
+8. Roberto. Can you come here a minute? This is ... Sorry, what's your name again?
+  - B - Carmen, Carmen Sanchez.
