@@ -16,7 +16,6 @@ The objective to this repository is centralized de materiales, videos and homewo
     - Practice file (next)
 1) [Business communication | Making introductions](./01-companies/04-business-comunication.md)
     - Practice file (next)
-
-
+1) [Extras exercises](./01-companies/extras/extras.md)
   
   
