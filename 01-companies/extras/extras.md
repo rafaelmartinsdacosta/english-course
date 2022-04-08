@@ -52,3 +52,9 @@
   - I think is menta and avocado
 - What are you planning to buy today at the supermarket?
   - I need buy fruits
+
+
+## Extra Questions
+- When was the last time you did something for the first time
+- Training with: http://lyricstraining.com/
+- Watch a movie or serie in english with subtitle in english/portuguese
