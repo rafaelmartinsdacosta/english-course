@@ -96,3 +96,26 @@ You have to watch a movie with the audio in English and subtitles in Portuguese 
   - It's amazing film, we have a lot of details about the relativity, and how it is affected by planet and how the time is related to this
 - **Youtube**
   - [Review](https://www.youtube.com/watch?v=j3DuONZb3Ik)
+
+
+## Talk about the company you currently work for
+The following questions are tips for getting started with your introduction.
+
+- Which company do your work for?
+- Is it a new company?
+- What does it do?
+- Do you work at the head office?
+- Does the company have offices in other countries?
+
+### Introduction
+
+Hello everyone, today a talk about the company I currently work for.
+Today I work for Nubank as a Lead Software Engineer, basically I am a Developer with responsability to mantein or create new software to solve somes problemas in a company, and in this position I have other responsabilities as align with PO/PM (Product Owner/Product Manager) the next activities and priorize some demands to the work for nexts week or months together with team, and also guarantee the software are healthly in production environment, other responsability is help other people to grow and become better developer thougth tips, courses, talks or simply sharing knowledge. The main job is to lead the project and help people to grow with good patterns of code, good documentation and good relationship with my colleagues.
+
+[Nubank](https://pt.wikipedia.org/wiki/Nubank) is founded in 2013, 8 years ago, by David, Cristina and Edward.
+
+It's a credit card operator and a fintech.
+
+Fintech it is a word created to describe a technology focused to resolve and improve a financial stuffs.
+
+Nubank is based on Brazil, with head office in Sao Paulo, and it has a branch in Argentina and Germany and operates in Mexico and Colombia but it hire people from fourteen countries in the world.
