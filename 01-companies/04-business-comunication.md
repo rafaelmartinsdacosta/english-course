@@ -3,7 +3,7 @@
 - improve your communication skills for meetings, presentations, socializing, and phone calls
 - key expressions list in every unit 
 
-## 1 - What do you talk about you meet someone at a conference for the first time?
+## 1 - What do you talk about when you meet someone at a conference for the first time?
 
 ## 2 - [Listen](https://drive.google.com/file/d/1jlR6NyFlFU_M0YokyagG9Jy01pReXsau/view?usp=sharing) to Gianluca introducing himself to Carmen at a conference.
 
@@ -47,3 +47,23 @@
   - G -> Yes, of course. That would be nice.
 8. Roberto. Can you come here a minute? This is ... Sorry, what's your name again?
   - B - Carmen, Carmen Sanchez.
+
+## 6.
+
+journalist
+what do
+sales manager
+article
+internet service
+new customers
+
+produces sftware
+sales depart - sales rep
+small times - contact with customers
+international company - custom
+product custom - choose suplier
+time - twelve people - 
+sales software 
+organize trainig course
+
+7 tp 10
