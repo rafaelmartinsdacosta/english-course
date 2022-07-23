@@ -39,7 +39,7 @@ Questions
 5. Today everyone wants one. It's a very **popular** product.
 6. We use the latest technology. Our products are **high-tech**.
 7. No other company makes a product like this. It's really **original**.
-8. We are here to answer all your questions. Out staff are **helpful**.
+8. We are here to answer all your questions. Our staff are **helpful**.
 
 ## 5 - Work with a partner. Which adjectives in 4 do we often use to describe these products and services?
 
@@ -100,7 +100,34 @@ Words
 5. It's a **very** user-friendly site.
 6. The accommodations was **pretty** good value, too.
 
-## Work with a partner. Which sentences in 7 would describe products and services that you use?
+## 8 - Work with a partner. Which sentences in 7 would describe products and services that you use?
 
+Words
+- original
+- popular
+- good value
+- helpful
+- reliable
+- high-quality
+- user-friendly
+- high-tech
+
+Phrases
 - Slack: It's an **extremely** **reliable** service
-- iPhone has a very user-friendly 
+- iPhone has a very **user-friendly** operational system 
+- Correios is **very** **popular** to send packages
+- Cloud services from AWS are **extremely** **reliable**
+- Hering has some **popular** clothes with **good value**
+
+## 9 - Work with a partner. Recommend a company, shop or product you know well.
+1. Make a list of words from this section to describe the company, shop or product.
+    - Netflix
+      - Good value
+      - Reliable
+      - User-friendly
+      - Original
+      - Pioneer (as a streaming platform)
+2. Use your list to recommend it to your partner. Explain *why* your statements are true.
+    - Netflix is a good value as a streaming platform with an extensive list of films, series, and documentaries and a user-friendly interface. Original as a streaming platform it was a pioneer in your segment and has great films produced and delivered by its own Netflix. With an excellent monthly value, it has a title for the whole family.
+
+*Example:* It offers a very reliable service. The products always arrive on time and they never make a mistake.
